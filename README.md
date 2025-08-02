@@ -132,11 +132,3 @@ While this application doesn't use traditional ML classification metrics (like a
 - Mobile version using Kivy or Flutter
 
 ---
-
-## 🙋‍♂️ Maintainer
-
-Created by **[Yogita Patel]**  
-📧 Email: patelyogita0808@gmail.com  
-🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
-
----
